@@ -78,7 +78,7 @@
 					name: '',
 					name1: ''
 				},
-				url: 'http://upload.kwsport.cn',
+				url: 'https://ps.loole.tech/',
 				address: '',
 				xss: false,
 				xianshi: false,
